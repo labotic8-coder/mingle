@@ -1,0 +1,413 @@
+<?= require "header.php" ?>
+
+<span class="header-spacer"></span><div class="site-inner"><section class="page-header has-dark-background has-divider is-alignfull-first" id="page-header"><div class="page-header-wrap wrap"><div class="page-header-inner"><h1 class="page-header-title" itemprop="headline">Terms of Use</h1></div></div><div class="mai-divider mai-divider-wave alignfull page-header-divider" style="--divider-color:var(--color-background);--divider-background-color:transparent;--divider-height:var(--padding-lg);"><svg fill="currentColor" enable-background="new 0 0 1000 120" viewbox="0 0 1000 120" preserveaspectratio="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="mai-divider-svg"><path d="M 0 80 Q 200 160 500 60 Q 770 -40 1000 40 L 1000 120 L 0 120 Z"></path></svg></div></section><div class="content-sidebar-wrap"><main class="content has-standard-content" id="genesis-content"><article class="entry entry-single no-entry-link page type-page" aria-label="Terms of Use" itemref="page-header"><div class="entry-wrap entry-wrap-single"><div class="entry-content entry-content-single">
+<p><strong>ELIGIBILITY &amp; ACCEPTANCE OF TERMS AND CONDITIONS</strong></p>
+
+
+
+<p>Welcome to www.minglecity.com (the “Site”), the official website for MingleCity This site is owned and operated by Mingle City LLC.</p>
+
+
+
+<p>Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any contest, sweepstakes or interactive activities.&nbsp; By your participation in our Site activities, you certify that you are at least 18 years of age and meet any other eligibility and residency requirements of the Site.</p>
+
+
+
+<p>By using the Site, you understand, acknowledge and agree that you will be bound by all terms, conditions and notices contained or referenced herein (the “Terms of Use”).&nbsp; In addition, you shall be subject to any posted guidelines, conditions or rules applicable to this Site or any services or products offered through this Site, which may be posted from time to time.&nbsp; All such guidelines, conditions or rules, as well as the Privacy Policy, are hereby incorporated by reference into these Terms of Use.&nbsp; These Terms of Use will remain in full force and effect as long as you are a user of the Site.&nbsp; We may change the Terms of Use at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to review the Terms of Use, and if you do not agree to the terms of this or any revised policy, please exit the site immediately.&nbsp; We recommend that you periodically visit this page to review the current Terms of Use.</p>
+
+
+
+<p>The terms “you” and “user” as used in the Terms of Use refer to all individuals and/or entities accessing this Site for any reason.</p>
+
+
+
+<p><strong>INTELLECTUAL PROPERTY</strong></p>
+
+
+
+<p>You acknowledge that all content and materials available on this site, including without limitation software, text, graphics, images, audio and video clips, artwork, photographs, logos, button icons, documents and marks and any other material on the Site including the selection and arrangement thereof, are protected by national and international copyrights, trademarks, service marks, patents, patent registration rights, trade secrets, know-how or other proprietary rights and laws and are owned by MINGLE CITY and/or its subsidiaries, affiliates, assigns, licensors, the Site’s designer, hosting, programming and contest management/prize fulfillment vendors, and/or the Site’s advertisers, sponsors, and promotional partners. Except where otherwise noted, you may download, print or view individual pages for noncommercial use, provided you do not delete or alter any of the information, including, without limitation, any copyright or trademark notices. You may only use the Site or its contents as expressly permitted in these Terms of Use and for no other purpose. MINGLE CITY, our licensors or associates retain exclusive ownership of all data, material and other information regarding your use of the Site. Except as we may expressly authorize, you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from the content or materials on the Site. Systematic retrieval of data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database or directory without our written permission is prohibited. Unless otherwise indicated, all logos, names, package designs and marks on the Site are trademarks or service marks or used under license by MINGLE CITY. The use or misuse of any of these materials is strictly prohibited.</p>
+
+
+
+<p>Notwithstanding any statement to the contrary in these Terms of Use, you will not use or attempt to use, and shall cause each other party under your control not to use or attempt to use, any engine, software, tool, agent or other device or mechanism (including, without limitation, browsers, spiders, avatars or intelligent agents) to navigate or search the Site other than (a) the search engine and search agents available from the Site and (b) generally available third-party web browsers.</p>
+
+
+
+<p><strong>COPYRIGHT INFRINGEMENT NOTIFICATION PROCESS</strong></p>
+
+
+
+<p>If you believe that your work has been copied and is accessible on this Site in a way that constitutes copyright infringement, you may notify us by providing our copyright agent with the following information:</p>
+
+
+
+<ol class="wp-block-list"><li>An electronic or physical signature of the copyright owner or someone authorized to act on the owner’s behalf to assert a claim of copyright infringement.</li><li>Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at this Site are covered by a single notification, a representative list of such works at this Site.</li><li>Identification of material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material.</li><li>Information reasonably sufficient to permit us to contact the complaining party, such as the party’s name, address and daytime telephone number, and an e-mail address, if available.</li><li>A statement that the complaining party has a good faith belief that the use of the infringing copyrighted work is not authorized by the copyright owner, its agent, or the law.</li><li>A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive copyright right that is allegedly infringed.</li></ol>
+
+
+
+<p>Such written notice should be sent to our copyright agent as follows:</p>
+
+
+
+<p><strong><br>Mingle City<br>7512 Dr. Phillips Blvd<br>Orlando, FL 32819</strong></p>
+
+
+
+<p><strong>Email:  <a href="mailto:support@minglecity.com">support@minglecity.com</a></strong></p>
+
+
+
+<p>The above address is intended only for notifications and any related correspondence regarding claims of copyright infringement on this Site.&nbsp; Correspondence pertaining to other matters will not receive a response if sent to the above point of contact.&nbsp; Please note that any person who submits a false or fraudulent claim of copyright infringement may be subject to liability under U.S. copyright law.</p>
+
+
+
+<p><strong>USER CONDUCT</strong></p>
+
+
+
+<p>This Site may provide users with the opportunity to submit, post and/or exchange information, including but not limited to data, software, music, video, audio, photographs, graphics, artwork, messages and other materials (collectively “Postings”), whether publicly posted or privately transmitted.&nbsp; You understand, agree and consent that such Postings are the sole responsibility of the person from which such Postings originated, and as such, you (and not this Site), are entirely responsible for the consequences of all Postings that you upload, post, email, transmit or otherwise make available via the Site.&nbsp; Pursuant to the terms of this Policy, users may not:</p>
+
+
+
+<ul class="wp-block-list"><li>post material that is copyrighted, unless you are the copyright owner or have the permission of the copyright owner to post it;</li><li>post material that infringes on any other intellectual property rights of others or on the privacy or publicity rights of others;</li><li>post material that reveals trade secrets, unless you own them or have the permission of the owner to do so;</li><li>post a sexually-explicit image or statement;</li><li>post material that is considered by the Site, in its sole judgment, to be obscene, indecent, defamatory, threatening, harassing, tortious, abusive, hateful, embarrassing or harmful to another user or any other person or entity;</li><li>post advertisements or solicitations of business;</li><li>post any incomplete, false, fraudulent or inaccurate biographical information or general information which is not your own information, or impersonate another person; or</li><li>post chain letters or pyramid schemes.</li></ul>
+
+
+
+<p>The Site does not represent or guarantee the truthfulness, accuracy, timeliness or reliability of Postings by users.&nbsp; MINGLE CITY does not endorse any opinions, which may be expressed by any user.&nbsp; You further agree that any reliance on such Postings by other users will be at your own risk.</p>
+
+
+
+<p>MINGLE CITY does not regularly review, screen or monitor the Site, and as such, MINGLE CITY assumes no responsibility, obligation or duty to do so.&nbsp; We will not be liable or responsible to any user for performance or nonperformance or use of such material.&nbsp; If notified by a user of any Posting or communication which allegedly does not conform to this Policy, we reserve the right to, in our sole discretion, investigate the allegation and determine thereafter, in our sole discretion, whether or not to remove or request the removal of the material.&nbsp; In addition, you understand, agree, and consent to our right to expel users from the Site and to prevent their access to the Site for violating this Agreement or any applicable law.&nbsp; MINGLE CITY reserves the right to remove communications considered to be, in our sole judgment, unlawful, harmful, threatening, abusive, obscene, indecent, libelous, disruptive, hateful, infringing, or racially, ethnically or otherwise objectionable in any way.</p>
+
+
+
+<p>You also grant MINGLE CITY a royalty-free, worldwide, perpetual, irrevocable, non-exclusive right (including any moral rights) and license to use, modify, adapt, publish, reproduce, copy, distribute, retransmit, translate, create derivative works from, communicate to the public, publicly perform or display such content (in whole or in part), and/or to incorporate it in other works in any form, media, or technology now known or later developed, for so long as any rights exist in such content.&nbsp; You also warrant that the holder of any rights, including moral rights in such content, has completely and effectively waived all such rights and validly and irrevocably granted to you the right to grant the license set forth in this agreement.&nbsp; You also permit any other user to access, display, view, store and reproduce such content for such user’s personal use only.</p>
+
+
+
+<p><strong>PRIVACY POLICY</strong></p>
+
+
+
+<p>To participate in various activities on the Site, you may be asked to provide certain true, complete and current Personal Information or Sensitive Personal Information.&nbsp; All Personal Information, Sensitive Personal Information, and any additional type of information collected from users in general are subject to our Privacy Policy, which is incorporated by reference into this agreement.&nbsp; For more information, see our official Privacy Policy:&nbsp;<strong>ADD LINK TO PRIVACY POLICY</strong></p>
+
+
+
+<p>By submitting content to any area of the Site open to the other users or the general public (which includes, but is not limited to, contests, emails regarding Show programming, or Public Areas), you understand, acknowledge and agree that your content will be considered “Public Material” and will not be subject to the privacy protections generally afforded your Personal Information.</p>
+
+
+
+<p>You further agree that the Site may save and archive any content of any nature posted to the Site and that the Site may, without liability to any user, disclose such content if required to do so by law or to comply with legal processes; to respond to claims that any of the content violates the property, privacy, publicity or any other rights of another individual, organization or corporation; or to protect the rights, property or safety of the Show, the Site, its corporate affiliates, Advertisers, employees, suppliers, operational service providers, users and members of the public.</p>
+
+
+
+<p><strong>EMAIL</strong></p>
+
+
+
+<p>Email is an important communications channel for the Site and MINGLE CITY.&nbsp; All email sent to us should be sent by the individual in whose name the email account is registered.&nbsp; We will use your email address and the content of any email for administrative, legal, and correspondence purposes and to send you information that you may request.&nbsp; MINGLE CITY assumes no obligation to protect such information from disclosure, and all non-personal content you provide to the Site by email (such as feedback, data, answers, questions, comments, suggestions, plans, ideas, etc.) shall be deemed to be non confidential.&nbsp; You understand and agree that we shall be free to reproduce, use, disclose and distribute such content without restriction. In addition, you understand and agree that the submission of such information shall in no way prevent or limit the Show’s use of similar products, services, plans and ideas for any purpose.</p>
+
+
+
+<p><strong>ADVERTISING AND THIRD PARTY CONTENT</strong></p>
+
+
+
+<p>This Site provides general advertising, including banner and tile advertisements, and other content provided by our Advertisers and content providers.&nbsp; You understand, acknowledge, and agree that such third party content on this Site is not an endorsement by the Show or MINGLE CITY of any of the goods, services or messages conveyed in the content or the business practices (including the privacy policies) of such third party content providers.&nbsp; Users may from time to time enter into correspondence with or participation in the advertising or promotions offered through the Site to which the Show is not a party, and you acknowledge and agree that such contractual agreements are solely between the Advertiser and the user.&nbsp; Your further agree that the Site is not responsible for fulfilling any terms, conditions, promises, representations and warranties made by Advertisers or other third parties, including but not limit to in the context of any agreements between users, or the purchase of goods and services offered by Advertisers or other third parties.</p>
+
+
+
+<p><strong>PRODUCTS &amp; SHOPPING</strong></p>
+
+
+
+<p>This Site may offer various goods and services for sale (“Products”), or direct or link to other websites that sell goods and services. We have no responsibility or liability whatsoever for&nbsp;goods or services you may obtain from or through other websites or web pages, even if you were directed or linked to such a site or page through this Site.&nbsp; If a Product sold on this Site is listed at an incorrect price or with incorrect information, we reserve the right to refuse or cancel orders placed for that Product, whether or not the order has been confirmed and even if your credit or debt card account has been charged (in which event we will issue a credit to your account in the amount of the charge).</p>
+
+
+
+<p><strong>EXCEPT AS SPECIFICALLY SET FORTH HEREIN, MINGLE CITY EXPRESSLY DISCLAIMS (1) ANY AND ALL LIABILITY ARISING FROM OR RELATING IN ANY WAY TO ANY AND ALL PRODUCTS AND (2) ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY AND ALL PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE.</strong></p>
+
+
+
+<p>Our creation or transmission of an order confirmation does not signify final acceptance of your order, nor does it constitute a binding confirmation of an offer to sell any Product.&nbsp; MINGLE CITY reserves the right to accept or decline your order for any reason up until the time the Product is actually delivered to you.&nbsp; We reserve the right at any time, without prior notice, to limit or reduce the quantity you ordered of any Product upon providing notice of same.&nbsp; Products on the Site are not for resale or for commercial sale.&nbsp; Products on the Site are offered for sale only to end user customers or as personal gifts to end user customers. We do not accept orders from dealers, exporters, wholesalers, distributors, resellers or other similar persons or companies.&nbsp; MINGLE CITY reserve the right to refuse, cancel or seek the return of any Products that are purchased in violation of the foregoing restrictions.</p>
+
+
+
+<p>You are responsible for any taxes imposed on the sale or use of Products and applicable taxes will be added to the amount charged for Products purchased on the Site.</p>
+
+
+
+<p><strong>Mobile Devices</strong></p>
+
+
+
+<p>If permitted or available through the applicable Websites or Apps, to (a) upload content to this Site via your mobile device and/or tablet, (b) receive and reply to messages, or to access or make posts using text messaging, (c) browse this Site from your mobile device and/or (d) to access certain features through a mobile application you have downloaded and installed on your mobile device (collectively the “Mobile Services”), you must have a mobile communications subscription (or have the consent of the applicable subscriber) with a participating carrier or otherwise have access to a mobile communications network for which Mingle City makes the Internet Service available as well as any carrier services necessary to download content, and pay any service fees associated with any such access (including text messaging charges for each text message you send and receive on your mobile device). In addition, you must provide all equipment and software necessary to connect to the Site, including, but not limited to, if this Site contains a mobile element, a mobile hand set or other mobile access device that is in working order and suitable for use in connection with the Site and to use any part of that Service. You are responsible for ensuring that your equipment and/or software does not disturb or interfere with Mingle City’s or this Site’s operations. Any equipment or software causing interference will be immediately disconnected from the Site and Mingle City will have the right to immediately terminate this Agreement. If any upgrade in or to the Site requires changes in your equipment or software (including the operating system for your Device), you must effect these changes at your own expense. Unless explicitly stated otherwise, any new or additional features that augment or enhance the current Site, including the release of new products and services, will be subject to the terms and conditions of this Agreement. You agree to follow and comply with any applicable laws in your use of the Site.</p>
+
+
+
+<p><strong>HYPERLINKS TO THIRD PARTY WEBSITES</strong></p>
+
+
+
+<p>This Site provides links to certain third party websites and references to other resources that could be of interest to our users.&nbsp; You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by MINGLE CITY of the content, advertising or business practices (including the privacy policies) of such third party websites, regardless of whether the Show’s logo or sponsorship identification is on the third party website, or whether the Site conducts “framing,” which allows a user to access several web pages or websites while still viewing a header or border from this Site.&nbsp; These third party websites may have different privacy policies and business practices than we do.&nbsp; Therefore, we do not endorse, verify, make any representations, or take responsibility for the content, truthfulness, accuracy, quality or completeness of the content or activities conducted on such websites.&nbsp; You further agree and consent that MINGLE CITY and its respective officers, directors, employees, representatives, agents, and operational service providers will not, under any circumstances, be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on the content, advertising or business practices of linked third party sites.&nbsp; If you decide to access and use linked third party websites, you understand, acknowledge, and agree that you do so voluntarily and at your own risk.</p>
+
+
+
+<p><strong>BLOGS, POSTS, MESSAGE BOARDS, CHAT ROOMS AND OTHER PUBLIC AREAS</strong></p>
+
+
+
+<p>By using or registering on any Site, including but not limited to message boards, chat rooms and other public forums (collectively “Public Areas”), you understand, agree, and consent to follow and to be subject to the Site’s Privacy Policy and the following rules.&nbsp; See MINGLE CITY’s Privacy Policy.&nbsp; In addition, you agree that we reserve the right, at our sole discretion, to terminate your membership or registration at any time, block access to your membership file or profile(s), delete any or all of your postings, and/or reject participation in any other activity or service provided to you by the Site.&nbsp; MINGLE CITY also reserves the right to take such actions, with or without notice, and without any liability to the account holder and user.</p>
+
+
+
+<p>As an entertainment service to our users, this Site provides Public Areas that enable users to interact with other users, on-air talent and other MINGLE CITY personnel, and share commentary on a variety of subjects.&nbsp; A variety of subjects may be discussed via the Public Areas, however, use of such areas may only be for lawful and non-commercial purposes.&nbsp; The Site specifically prohibits certain uses and activities.&nbsp; You understand, agree and consent by accessing or registering on Public Areas or any interactive area of the Site that you are prohibited from use of the Site for (i) any of the purposes below and (ii) the conduct listed in the User Conduct section of this Agreement:</p>
+
+
+
+<ul class="wp-block-list"><li>Posting a profile for anything other than to participate in online discussion via the Public Area.</li><li>Deleting or revising any content or material posted by any other person or entity.</li><li>Sending a message to a user for any reason other than to participate in online discussions.</li><li>Forging any TCP/IP packet header or any part of the header information in any email or newsgroup posting for any reason.</li></ul>
+
+
+
+<p><strong>VIDEO Content License Agreement</strong></p>
+
+
+
+<p>Licensor will provide a license to certain content to MINGLE CITY and in consideration of the attribution in Section 2 in relation to the video provided by Licensor to MINGLE CITY and uploaded herewith to MINGLE CITY’s video submission portal (the Licensed Content”), Licensor hereby grants MINGLE CITY and its affiliates (i) a world-wide, non-exclusive, perpetual, royalty-free license to use, copy, reproduce, process, adapt, publish, transmit,</p>
+
+
+
+<p>distribute, resell, sublicense, display and create derivative works of the Licensed Content on the MINGLE CITY Properties and to extract and use portions of the Licensed Content for the purpose of marketing such content to users of the MINGLE CITY Properties; and (ii) the right to sublicense the Licensed Content to MINGLE CITY end users for their review, personal use and not for resale and subject to any copying and distribution limitations set out on the MINGLE CITY Properties. MINGLE CITY may also make editorial or format modifications or</p>
+
+
+
+<p>use excerpts of the Licensed Content. Licensor agrees that the license above includes the right for MINGLE CITY to make the Licensed Content available to other companies, organizations or individuals who partner with MINGLE CITY for the broadcast, distribution or publication of such content on other media and services in order to promote or syndicate MINGLE CITY’ business. Licensor understands that the Licensed Content may be re-broadcasted by MINGLE CITY partners and if Licensor does not have the right to submit content for such use, it may subject Licensor to liability. MINGLE CITY will not be responsible or liable for any use of the Licensed Content by</p>
+
+
+
+<p>MINGLE CITY in accordance with this Agreement.</p>
+
+
+
+<ol class="wp-block-list"><li>“MINGLE CITY Properties” means any website or social media page or property that is owned or operated by, or partnered with, MINGLE CITY now or in the future.</li><li>Attribution: MINGLE CITY will ensure that any video, article or content incorporating the Licensed Content will include attribution of origin to the Licensor and can include is the Licensor desires a hyperlink back to the Licensors website only from the MINGLE CITY Site. If posted on MINGLE CITY social media sites then link will be directly back to the originating MINGLE CITY site to the location of the original post.</li><li>Content Usage: MINGLE CITY retains full editorial control over all content on the MINGLE CITY Properties and may make changes to the content which incorporates the Licensed Content at any time. MINGLE CITY will own all derivatives works and content created by or on behalf of MINGLE CITY that the Licensed Content is included with or derived from.</li><li>Term and Termination: This Agreement shall commence on the Effective Date and shall remain in full force and effect until terminated by either party providing at least 7 days prior written notice to the other party. The rights granted to Licensed Content will survive termination of this Agreement subject to MINGLE CITY’s continuing compliance with the obligations in Section 2.</li><li>Warranties: Licensor represents and warrants to MINGLE CITY that (i) Licensor is the sole creator of the Licensed Content or, if a co-author or the provider of Licensed Content which incorporates third party works, that Licensor has the written consent, release, and/or permission of each and every copyright holder to enable inclusion and use of such Licensed Content in the manner contemplated by this Agreement; and (ii) use of the Licensed Content as contemplated under this Agreement does not and will not violate or infringe rights of any third party including, but not limited to, copyrights, trade secrets, trademarks, patents, moral rights,</li></ol>
+
+
+
+<p>rights of publicity, or privacy, and does not libel anyone. Each Party warrants that it will not enter into any third-party agreements or grant any rights or licenses that conflict with those contemplated by this Agreement.</p>
+
+
+
+<ol class="wp-block-list"><li>Indemnification and Limitation of Liability: Licensor agrees to indemnify and hold MINGLE CITY harmless against any and all third party proceedings, causes of action, suits, damages, losses, liability, costs and expenses (including reasonable legal fees) whatsoever that may arise, either directly or indirectly, in any connection with any breach of the foregoing representations and warranties.</li></ol>
+
+
+
+<p><strong>DISCLAIMER OF WARRANTIES</strong></p>
+
+
+
+<p>YOU EXPRESSLY AGREE THAT ALL MATERIALS, INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SITE (THE “CONTENT”) ARE PROVIDED “AS IS” AND “AS AVAILABLE” FOR YOUR USE. THE CONTENT IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, NON-INFRINGEMENT OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR OTHERWISE, OTHER THAN THOSE WARRANTIES WHICH ARE INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER APPLICABLE LAW. NEITHER SHOW, MINGLE CITY, NOR OUR SUBSIDIARIES OR LICENSORS, MAKE ANY WARRANTY THAT THE CONTENT OF THE SITE, INCLUDING BUT NOT LIMITED TO ANY SOFTWARE, PRODUCTS, SERVICES, INFORMATION, TEXT, RELATED GRAPHICS, DESIGN, VIDEO CLIPS, AUDIO CLIPS, ARTWORK, IMAGES, PHOTOGRAPHS, LINKS, DATA, OR OTHER MATERIAL, IS ACCURATE, RELIABLE, COMPLETE, TIMELY OR CORRECT; THAT THE SITE WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED; THAT THE CONTENT IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR THAT YOU WILL ACHIEVE SUCCESSFUL RESULTS FROM FOLLOWING ANY INSTRUCTIONS, DIRECTIONS OR RECOMMENDATIONS ON THE SITE.&nbsp; YOUR USE OF THE SITE IS UNDERTAKEN SOLELY AT YOUR DISCRETION AND OWN RISK.&nbsp; IF YOUR USE OF THE SITE OR THE MATERIAL RESULTS IN THE NEED FOR SERVICING OR REPLACING EQUIPMENT OR DATA, THE SITE IS NOT RESPONSIBLE FOR THOSE COSTS.</p>
+
+
+
+<p>SOME JURISDICATINOS DO NOT ALLOW FOR THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, AND SOME OF THE DISCLAIMERS IN THIS AGREEMENT MAY NOT APPLY TO YOU BY OPERATION OF LAW.</p>
+
+
+
+<p><strong>LIMITATION OF LIABILITY</strong></p>
+
+
+
+<p>UNDER NO CIRCUMSTANCES SHALL SHOW, OUR PARENT, SUBSIDIARIES, OWNER, OPERATOR, AFFILIATES, SUCCESSORS AND ASSIGNS OR OUR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, EXEMPLARY, COMPENSATORY, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE SITE OR FROM INFORMATION PROVIDED ON THE SITE OR THE PROVISION OR FAILURE TO PROVIDE ANY SERVICE. THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON WARRANTY, CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES. OUR LIABILITY IN SUCH JURISDICTIONS SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.</p>
+
+
+
+<p>SHOW IS NOT RESPONSIBLE FOR ANY FAILURES CAUSED BY SERVER ERRORS, MISDIRECTED OR REDIRECTED TRANSMISSIONS, FAILED INTERNET CONNECTIONS, OR ANY COMPUTER VIRUS OR OTHER TECHNICAL DEFECT, WHETHER HUMAN OR TECHNICAL IN NATURE.</p>
+
+
+
+<p>IN NO EVENT SHALL SHOW’S TOTAL LIABILITY TO YOU FOR ANY AND ALL CLAIMS, DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THIS SITE.</p>
+
+
+
+<p><strong>INDEMNIFICATION</strong></p>
+
+
+
+<p>You agree to defend, indemnify, and hold the Show, MINGLE CITY, its parent, subsidiaries, affiliates, and their employees, officers, directors, agents, representatives, and contractors harmless from any and all liabilities, claims, actions, demands, costs and expenses, including reasonable attorney’s fees, that arise from your use or misuse of the Site or the Content therein or from your breach of any provision of these Terms and Conditions. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with us in asserting any available defenses.</p>
+
+
+
+<p><strong>SECURITY OF THE SITE</strong></p>
+
+
+
+<p>Certain of the Site’s listener/user and other membership activities are to be accessed only by registered users of the Site which should have only one unique user name with one unique password.&nbsp; If you are found to share passwords with any non-registered member we may terminate your membership, at our discretion, immediately without notice.</p>
+
+
+
+<p>As a user of this Site, the following actions are also prohibited:</p>
+
+
+
+<ul class="wp-block-list"><li>Accessing data not intended for such user or logging into a server or account in which the user is not authorized to access.</li><li>Attempting to probe, scan or test the vulnerability of the system or network or to breach the security or authentication measures of the Site without proper authorization.</li><li>Forging any headers or otherwise manipulation of Site identifiers in order to disguise the origin of transmission through the Site.</li><li>Attempting to interfere with service to any user, host or network, including, without limitation, via means of submitting a virus to the Site, overloading, “flooding,” “spamming,” “hacking,” “mail-bombing,” or “crashing” the Site or the server of any user.</li><li>Sending unsolicited commercial email individually or in bulk (also called, Spam), which promotes or advertises the Show, the Site, or any other activity, program, product, or service.</li><li>Harvesting email addresses off this Site through an automated process.</li><li>Bypassing this Site’s homepage via deep-linking or any other means, or framing this Site, or any webpage or material on the Site without the express written permission from MINGLE CITY.&nbsp; Users are also prohibited from hyperlinking to this Site or any webpage in an email sent for commercial purposes, without the express written permission of MINGLE CITY.</li><li>Attempting to gain unauthorized access to the Site’s features or activities, interfering with or manipulating in any manner the entry or registration process for contests, sweepstakes, surveys, opinion polls, chat rooms, message or bulletin boards, or any other interactive features and activities on this Site.</li><li>Falsifying identification or impersonating any person or entity, including, but not limited to, a Site or Show official, chat room or public forum leader, host, or guide, when accessing or participating in such features and activities.</li><li>Setting up fake sites or other dummy sites that appear to be the Site, mirroring the Site’s contents, or otherwise copying any part of the Site Material and/or layout.</li></ul>
+
+
+
+<p>Violations of the Site’s system or network security may result in civil or criminal liability.&nbsp; MINGLE CITY may investigate possible violations of system or network security and reserves the right to involve, and cooperate with a user’s employer, Internet Service Provider, and/or law enforcement authorities in investigating and/or prosecuting users who are involved in such violations.&nbsp; MINGLE CITY may, in its sole discretion, terminate the membership of any person believed to have violated any of its security provisions.</p>
+
+
+
+<p><strong>UNAUTHORIZED USE AND TERMINATION</strong></p>
+
+
+
+<p>You agree to use the Site only for authorized and legal activities. MINGLE CITY reserves the right, in its sole discretion, to terminate your access to all or part of the Site, with or without notice, at any time and for any reason whatsoever.&nbsp; In the event of such termination, you will still be bound by your obligations under these Terms of Use, including the warranties made by you, and by the disclaimers and limitations of liability.&nbsp; Additionally, MINGLE CITY shall not be liable to you or any third party for any termination of your access to all or part of the Site.</p>
+
+
+
+<p><strong>ACCOUNTS, SECURITY, PASSWORDS</strong></p>
+
+
+
+<p>If at any time the Site requires you to open or register an account, you must complete the specified registration process by providing us with current, complete, and accurate information as requested by the applicable online registration form. Registration for an account on this site is subject to those additional terms and conditions accompanying the registration process.&nbsp; It is your responsibility to maintain the currency, completeness, and accuracy of your registration data and any loss caused by your failure to do so is your responsibility. After you have fully completed the registration form, you may be asked to choose a password and a user name. It is entirely your responsibility to maintain the confidentiality of your password and account. Additionally, you are entirely responsible for any and all activities that occur under your account. You agree to notify MINGLE CITY of any unauthorized use of your account. MINGLE CITY is not liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge.</p>
+
+
+
+<p><strong>MODIFICATION, SUSPENSION OR DISCONTINUANCE</strong></p>
+
+
+
+<p>MINGLE CITY reserves the right to modify or discontinue the Site (or any part thereof) at any time, on a temporary or permanent basis, with or without notice.&nbsp; You understand, acknowledge and agree that MINGLE CITY will not be liable to you or to any third party for any such modification, suspension or discontinuance of any or all services offered on the Site.&nbsp; No changes to these Terms of Use shall be made except by a revised posting on this page and no advice or other information provided by MINGLE CITY or its representatives to any user in any manner which is not posted on this page will constitute any amendment of, waiver or change to this Agreement, unless such an amendment, waiver or change is in writing from MINGLE CITY.</p>
+
+
+
+<p><strong>CONTESTS, SWEEPSTAKES AND OTHER MEMBERSHIP ACTIVITIES</strong></p>
+
+
+
+<p>To participate in various Site activities, users must complete a registration process and may receive/select a “user name” and password.&nbsp; You understand, acknowledge and agree that you are responsible for maintaining the confidentiality of your Personal Information and Sensitive Personal Information defined in the Privacy Policy and the user name and password received upon registration on the Site.&nbsp; You will be fully responsible for all uses of your registration and for any activity that occurs under your password or account, whether or not authorized by you.&nbsp; You further agree to immediately notify the Site of any unauthorized use of your registration and/or password.</p>
+
+
+
+<p><strong>INTERNATIONAL USE</strong></p>
+
+
+
+<p>By choosing to access the Site from any location other than the United States, you do so at your own risk and initiative and accept full responsibility for compliance with all applicable local laws of that jurisdiction. MINGLE CITY makes no representation that materials on the Site are appropriate or available for use in locations outside the United States, and accessing them from territories where their contents are illegal is prohibited.</p>
+
+
+
+<p><strong>CHOICE OF LAW</strong></p>
+
+
+
+<p>This Agreement shall, for all domestic and international purposes, be governed, interpreted, construed and enforced solely and exclusively in accordance with the laws of the State of Texas, U.S.A., without regard to conflicts of law provisions. You expressly agree that the exclusive jurisdiction for any claim or action arising out of or relating to these Terms of Use or your use of the Site shall be filed only in the state or federal courts located in the State of Texas, and you further agree and submit to the exercise of personal jurisdiction of such courts for the purpose of litigating any such claim or action.</p>
+
+
+
+<p><strong>INTEGRATION AND SEVERABILITY</strong></p>
+
+
+
+<p>These Terms of Use constitute the entire agreement between MINGLE CITY and you with respect to the Site and supersedes all prior or contemporaneous communications and proposals between us with respect to the Site. If any provision of these Terms of Use agreement, or the application thereof to any person or circumstances, is determined to be invalid or unenforceable by any court having competent jurisdiction, the invalidity or unenforceability of such provision shall not affect the validity and application of the remaining provisions, and all other provisions of the Terms of Use shall remain in full force and effect.&nbsp; No waiver of any provision of these Terms of Use shall be deemed a further or continuing waiver of such term or any other term.&nbsp; Except as specifically provided elsewhere herein, these Terms of Use constitute the entire agreement between you and MINGLE CITY with respect to the use of the Site.</p>
+
+
+
+<p><strong>CONTACT INFORMATION</strong></p>
+
+
+
+<p>If you have any questions regarding this Agreement, please contact the Site Administrator via email at: <a href="mailto:support@minglecity.com">support@minglecity.com</a></p>
+
+
+
+<p>This Terms of Use Agreement was last updated on April 2019 and is effective immediately.</p>
+<div class="share-after share-filled share-small" id="share-after-1886"><div class="facebook" id="facebook-after-1886" data-url="https://minglecity.com/terms-of-use/" data-urlalt="https://minglecity.com/?p=1886" data-text="Terms of Use" data-title="Share" data-reader="Share on Facebook" data-count="%s shares on Facebook"></div><div class="twitter" id="twitter-after-1886" data-url="https://minglecity.com/terms-of-use/" data-urlalt="https://minglecity.com/?p=1886" data-text="Terms of Use" data-title="Share" data-reader="Share this" data-count="%s Shares"></div><div class="pinterest" id="pinterest-after-1886" data-url="https://minglecity.com/terms-of-use/" data-urlalt="https://minglecity.com/?p=1886" data-text="Terms of Use" data-title="Pin" data-reader="Pin this" data-count="%s Pins"></div><div class="linkedin" id="linkedin-after-1886" data-url="https://minglecity.com/terms-of-use/" data-urlalt="https://minglecity.com/?p=1886" data-text="Terms of Use" data-title="Share" data-reader="Share on LinkedIn" data-count="%s shares on LinkedIn"></div></div>
+			<script type='text/javascript'>
+				jQuery(document).ready(function($) {
+					$('#facebook-after-1886').sharrre({
+										  share: {
+										    facebook: true
+										  },
+										  urlCurl: 'https://minglecity.com/wp-content/plugins/genesis-simple-share/assets/js/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  disableCount: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('facebook');
+										  }
+										});
+$('#twitter-after-1886').sharrre({
+										  share: {
+										    twitter: true
+										  },
+										  urlCurl: 'https://minglecity.com/wp-content/plugins/genesis-simple-share/assets/js/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  disableCount: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('twitter');
+										  }
+										});
+$('#pinterest-after-1886').sharrre({
+										  share: {
+										    pinterest: true
+										  },
+										  urlCurl: 'https://minglecity.com/wp-content/plugins/genesis-simple-share/assets/js/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  disableCount: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('pinterest');
+										  }
+										});
+$('#linkedin-after-1886').sharrre({
+										  share: {
+										    linkedin: true
+										  },
+										  urlCurl: 'https://minglecity.com/wp-content/plugins/genesis-simple-share/assets/js/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  disableCount: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('linkedin');
+										  }
+										});
+
+				});
+		</script><div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_36 addtoany_list" data-a2a-url="https://minglecity.com/terms-of-use/" data-a2a-title="Terms of Use"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fminglecity.com%2Fterms-of-use%2F&amp;linkname=Terms%20of%20Use" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_mastodon" href="https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fminglecity.com%2Fterms-of-use%2F&amp;linkname=Terms%20of%20Use" title="Mastodon" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fminglecity.com%2Fterms-of-use%2F&amp;linkname=Terms%20of%20Use" title="Email" rel="nofollow noopener" target="_blank"></a></div></div></div></div></article></main></div></div><footer class="site-footer" id="site-footer">
+<div class="wp-block-cover alignfull has-background-dim-60 has-black-background-color has-background-dim has-parallax has-lg-padding-bottom has-lg-padding-top" style="background-image:url(wp-content/uploads/2021/06/before-footer-beach3.jpg);min-height:542px;aspect-ratio:unset;"><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<h2 class="has-white-color has-text-color wp-block-heading has-sm-max-width">Michael Baisden Travel Club</h2>
+
+
+
+<p>Have fun traveling the world; see amazing destinations; meet fantastic people!</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-buttons is-content-justification-right is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-default" style="--button-color:var(--color-white);--button-background:var(--color-primary);--button-background-hover:#324685;"><a class="wp-block-button__link button" href="join-the-michael-baisden-travel-club.php"><strong>Join the Travel Club!</strong></a></div>
+
+</div>
+</div>
+</div>
+</div></div>
+
+
+
+
+<?php
+require "footer.php"
+?>
