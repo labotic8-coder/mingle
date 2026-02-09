@@ -1,5 +1,5 @@
 <?php
-require "conn.php";
+//require "conn.php";
 
 if (isset($_POST['submit'])) {
 $company_name = $_POST['company_name'];
@@ -15,10 +15,11 @@ $audience = $_POST['audience'];
 $text_area = $_POST['text_area'];
 $budget= $_POST['budget'];
 
+return "obi";
 // $insert_all_into_db = "INSERT INTO company_details(company, first_name, email, phone, website, facebook_page,instragram)"
 
 $insert_company = " INSERT INTO company_details (company_name,first_name,last_name, email,phone,website,facebook_page,instagram_page,product, audience, text_area,budget, ) VALUES ( '$company_name','$first_name','$last_name','$email','$phone', '$website','$facebook', '$instragram' , '$product' ,'$audience', '$text_area', '$budget')";
-   $insert_company_exec = mysqli_query($conn, $insert_company);
+   $insert_company_exec = mysqli_query($conn, $insert_company) or die("cant save".mysqli_error($conn));
 
    if ($insert_company_exec) {
     echo "inserted";
