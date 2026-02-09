@@ -64,7 +64,7 @@
 
 <div class="af-element"><div><label class="previewLabel" for="awf_field-118411108-0">Target Audience: [check one]</label><div class="choiceList choiceList-radio-stacked">
 <div class="af-element-radio multiChoice">
-<input class="radio" type="radio" id="awf_field-118411108-0" name="audience"  value="Women" tabindex="509" />
+<input class="radio" type="radio" id="awf_field-118411108-0" name="audience"  value="Women" tabindex="509" checked/>
 <label class="choice" for="awf_field-118411108-0">Women</label>
 
 <div class="af-clear"></div></div><div class="af-element-radio multiChoice">
@@ -77,9 +77,9 @@
 
 <div class="af-clear"></div></div></div></div><div class="af-clear"></div></div>
 
-<div class="af-element"><div><label class="previewLabel" for="awf_field-118411109-0">Campaign Budget: [check one]</label><div class="choiceList choiceList-radio-stacked">
+<div class="af-element"><div><label class="previewLabel" for="awf_field-118411109-0">Campaign Budget: [check one] </label><div class="choiceList choiceList-radio-stacked">
 <div class="af-element-radio multiChoice">
-<input class="radio" type="radio" id="awf_field-118411109-0" name="budget"  value="$250 - $500" tabindex="512" />
+<input class="radio" type="radio" id="awf_field-118411109-0" name="budget"  value="$250 - $500" tabindex="512" checked />
 <label class="choice" for="awf_field-118411109-0">$250 &#8211; $500</label>
 
 <div class="af-clear"></div></div><div class="af-element-radio multiChoice">
