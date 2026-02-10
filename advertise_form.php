@@ -1,5 +1,5 @@
 
-<form method="POST" class="af-form-wrapper" accept-charset="UTF-8" action="submit.php"  >
+<form method="POST" class="af-form-wrapper" accept-charset="UTF-8" action=""  >
 <div style="display: none;">
 <input type="hidden" name="meta_web_form_id" value="908527630" />
 <input type="hidden" name="meta_split_id" value="" />

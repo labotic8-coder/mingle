@@ -51,7 +51,7 @@ if(isset($_GET['id'])){
     <button class="btn btn-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#dashboardMenu" aria-controls="dashboardMenu">
       ☰ Menu
     </button>
-    <a class="navbar-brand ms-3" href="#">Admin</a>
+    <a class="navbar-brand ms-3" href="">Admin</a>
    <a href="../index.php"> <button type="button" style="padding: 3px 20px; background-color:blue; color: white; border-radius: 10px; text-shadow: 1px 2px 3px; font-size: 18px;">Home</button></a>
   </div>
 </nav>
@@ -66,13 +66,13 @@ if(isset($_GET['id'])){
   <div class="offcanvas-body">
     <ul class="list-group list-group-flush">
       <div class="text"> 
-        <a href="index.php" class="nav-link" id="text">
+        <a href="contact.php" class="nav-link" id="text">
           <b class="" style="color: blue;">company_details</b>
         </a>
         </div>
 
          <div class="text"> 
-        <a href="./contact.php" class="nav-link" id="text">
+        <a href="index.php" class="nav-link" id="text">
           <b class="" style="color: blue;">Contacts</b>
         </a>
         </div>

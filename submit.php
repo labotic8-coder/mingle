@@ -34,14 +34,13 @@ if (isset($_POST['SUBMIT'])) {
    $firstname= $_POST['firstname'];
    $lastname= $_POST['lastname'];
    $email= $_POST['email'];
-  
    
-   $insert_user = " INSERT INTO newsletter (firstname,lastname,email,) VALUES ('$firstname','$lastname','$email',)";
-   $insert_user_exec = mysqli_query($conn, $insert_user);
+   $insert_user = " INSERT INTO newsletter (firstname,lastname,email) VALUES ('$firstname','$lastname','$email')";
+   $insert_user_exec = mysqli_query($conn, $insert_user)  or die("cant save".mysqli_error($conn));
    if ($insert_user_exec) {
-      echo "hellooo 😁😁😀 i am now submitting";
+     echo "<script>window.location.href='index.php';</script>";
    }else {
-      echo "😥😣😣😏 submittio fails";
+      echo "insertion fails 😥😥";
    }
 
 
@@ -54,17 +53,18 @@ if (isset($_POST['SUBMIT'])) {
 if (isset($_POST['save'])) {
    $firstname= $_POST['firstname'];
    $lastname= $_POST['lastname'];
-   $email= $_POST['email'];
+   $email = $_POST['email'];
    $textarea = $_POST['textarea'];
-   $check = $_POST ['check'];
+   $human_check = $_POST ['human_check'];
   
    
-   $insert_user = " INSERT INTO contact (firstname,lastname,email,textarea,check) VALUES ('$firstname','$lastname','$email','$textarea ', '$check')";
-   $insert_user_exec = mysqli_query($conn, $insert_user)  or die("cant save".mysqli_error($conn));
-   if ($insert_user_exec) {
-      echo "hellooo 😁😁😀 i am now submitting";
+$insert_contact = "INSERT INTO contact (firstname,lastname,email,textarea,human_check)VALUES('$firstname','$lastname','$email','$textarea','$human_check')";
+   $insert_contact_exec = mysqli_query($conn, $insert_contact) or die("cant save".mysqli_error($conn));
+   if ($insert_contact_exec) {
+        echo "<script>window.location.href='index.php';</script>";
+
    }else {
-      echo "😥😣😣😏 submittio fails";
+      echo "😥😣😣😏 submittion fails";
    }
 
 

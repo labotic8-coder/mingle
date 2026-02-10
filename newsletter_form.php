@@ -1,11 +1,12 @@
-<form method="POST" class="af-form-wrapper" accept-charset="UTF-8" action=""  >
+
+<form method="post" class="af-form-wrapper" accept-charset="UTF-8" action="submit.php">
 <div style="display: none;">
 <input type="hidden" name="meta_web_form_id" value="348838532" />
 <input type="hidden" name="meta_split_id" value="" />
 <input type="hidden" name="listname" value="awlist6189773" />
-<input type="hidden" name="redirect" value="thanks.php" id="redirect_45aba342fb29f76db113007f3909da7c" />
-<input type="hidden" name="meta_redirect_onlist" value="thanks.php" />
-<input type="hidden" name="meta_adtracking" value="MingleCity_Newsletter.php" />
+<input type="hidden" name="redirect" value="submit.php " />
+<input type="hidden" name="meta_redirect_onlist" value="submit.php " />
+<input type="hidden" name="meta_adtracking" value="MingleCity_Newsletter" />
 <input type="hidden" name="meta_message" value="1" />
 <input type="hidden" name="meta_required" value="name (awf_first),name (awf_last),email" />
 
@@ -30,13 +31,11 @@
 <label class="previewLabel" for="awf_field-117933279">Email:</label>
 <div class="af-textWrap"><input class="text" id="awf_field-117933279" type="email" name="email" value="" tabindex="502" onfocus=" if (this.value == '') { this.value = ''; }" onblur="if (this.value == '') { this.value='';}" />
 </div><div class="af-clear"></div>
-</div><div class="af-element buttonContainer">
- <input type="submit" name="SUBMIT" style="background-color: red;">
-<div class="af-clear"></div>
-</div><div class="af-element privacyPolicy" style="text-align: center"><p>We respect your <a title="Privacy Policy" href="privacy_policy.php" target="_blank" rel="nofollow">email privacy</a></p>
+ <input type="submit" name="SUBMIT" id="">
+</div><div class="af-element privacyPolicy" style="text-align: center"><p>We respect your <a title="Privacy Policy" href="https://www.aweber.com/permission.htm" target="_blank" rel="nofollow">email privacy</a></p>
 <div class="af-clear"></div>
 </div>
 </div>
 <div id="af-footer-348838532" class="af-footer"><div class="bodyText"><p>&nbsp;</p></div></div></div>
-<div style="display: none;"><img decoding="async" src="https://forms.aweber.com/form/displays.htm?id=zCwcHMwcrMxM" alt="" /></div>
+<div style="display: none;"><img decoding="async" src="" alt="" /></div>
 </form>
