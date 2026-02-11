@@ -36,7 +36,7 @@
 
 
 <?php
-require "form2.php";
+require "newsletter_form.php";
 ?>
 
 

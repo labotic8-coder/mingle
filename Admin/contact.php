@@ -50,7 +50,7 @@ if(isset($_GET['id'])){
     <button class="btn btn-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#dashboardMenu" aria-controls="dashboardMenu">
       ☰ Menu
     </button>
-    <a class="navbar-brand ms-3" href="#">Admin</a>
+    <a class="navbar-brand ms-3" href="">Admin</a>
    <a href="../index.php"> <button type="button" style="padding: 3px 20px; background-color:blue; color: white; border-radius: 10px; text-shadow: 1px 2px 3px; font-size: 18px;">Home</button></a>
   </div>
 </nav>
@@ -69,9 +69,15 @@ if(isset($_GET['id'])){
           <b class="" style="color: blue;">company_details</b>
         </a>
         </div>
-       <div class="text"> 
-        <a href="index.php" class="nav-link" id="text">
+
+         <div class="text"> 
+        <a href="contact.php" class="nav-link" id="text">
           <b class="" style="color: blue;">Contacts</b>
+        </a>
+        </div>
+       <div class="text"> 
+        <a href="newsletter.php" class="nav-link" id="text">
+          <b class="" style="color: blue;">Newsletter</b>
         </a>
         </div>
 <!-- 
@@ -114,22 +120,22 @@ $select_user_exec =mysqli_query($conn, $select_user);
      while($row = mysqli_fetch_assoc($select_user_exec)) { 
        $sn++;
      
-     $Firstname = $row['firstname'];
-     $Lastname = $row['Lastname'];
+     $firstname = $row['firstname'];
+     $lastname = $row['lastname'];
      $Email = $row['email'];
      $textarea = $row['textarea'];
-     $check = $row['check'];
+     $human_check = $row['human_check'];
      $date = $row['date'];
 
       ?>
     
 <tr>
    <td><?php echo $sn ?></td>
-  <td><?php echo $Firstname ?></td>
-  <td><?php echo $Lastname ?></td>
+  <td><?php echo $firstname ?></td>
+  <td><?php echo $lastname ?></td>
   <td><?php echo $Email ?></td>
   <td><?php echo $textarea ?></td>
-  <td><?php echo $check ?></td>
+  <td><?php echo $human_check ?></td>
   <td><?php echo $date ?></td>
 
   <td>
@@ -150,12 +156,12 @@ $select_user_exec =mysqli_query($conn, $select_user);
       </div>
 
       <div class="modal-body">
-        Are you sure you want to delete <?php echo $Firstname; ?>?
+        Are you sure you want to delete <?php echo $firstname; ?>?
       </div>
 
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-        <a href="./index.php?id=<?php echo $row['id']; ?>" class="btn btn-danger">
+        <a href="./contact.php?id=<?php echo $row['id']; ?>" class="btn btn-danger">
           Yes, Delete
         </a>
       </div>

@@ -17,7 +17,7 @@ $msg = "";
 
 if(isset($_GET['id'])){
     $id = $_GET['id'];
-    mysqli_query($conn, "DELETE FROM company_details
+    mysqli_query($conn, "DELETE FROM newsletter
  WHERE id='$id'");
      //echo "<script>window.location.href='index.php';</script>";
 
@@ -72,16 +72,18 @@ if(isset($_GET['id'])){
         </div>
 
          <div class="text"> 
-        <a href="./contact.php" class="nav-link" id="text">
+        <a href="contact.php" class="nav-link" id="text">
+          <b class="" style="color: blue;">Contacts</b>
+        </a>
+        </div>
+        
+       <div class="text"> 
+        <a href="newsletter.php" class="nav-link" id="text">
           <b class="" style="color: blue;">Contacts</b>
         </a>
         </div>
 
-       <div class="text"> 
-        <a href="newsletter.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">Newsletter</b>
-        </a>
-        </div>
+
 <!-- 
       <div class=" text">
         <a href="newsletter_subscriber.php" class="nav-link" id="text">newsletter_users </a></div> -->
@@ -99,16 +101,9 @@ if(isset($_GET['id'])){
       <tr>
         <th>S/N</th>
         <th>Company_name</th>
-        <th>First_name</th>
-        <th>Last_name</th>
-        <th>phone</th>
-         <th>website</th>
-         <th>facebook_page</th>
-         <th>instagram</th>
-         <th>products</th>
-         <th>audience</th>
-         <th>budget</th>
-         <th>text_area</th>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>email</th>
         <th>Date Created</th>
         <th>Action</th>
       </tr>
@@ -121,42 +116,24 @@ $select_user_exec =mysqli_query($conn, $select_user); -->
 
      <?php 
      
-      $select_user = "SELECT * FROM company_details ORDER BY id DESC";
+      $select_user = "SELECT * FROM newsletter ORDER BY id DESC";
       $sn = 0;
 $select_user_exec =mysqli_query($conn, $select_user);
        
      while($row = mysqli_fetch_assoc($select_user_exec)) { 
        $sn++;
-     $company_name= $row['company_name'];
-     $First_name = $row['First_name'];
-     $Last_name = $row['Last_name'];
-     $Email = $row['Email'];
-     $Phone = $row['Phone'];
-     $website = $row['website'];
-     $facebook_page = $row['facebook_page'];
-     $instagram = $row['instagram'];
-     $products= $row['products'];
-     $audience= $row['audience'];
-     $budget= $row['budget'];
-     $text_area = $row['text_area'];
+     $firstname = $row['firstname'];
+     $lastname = $row['lastname'];
+     $email = $row['email'];
      $date = $row['date'];
 
       ?>
     
 <tr>
    <td><?php echo $sn ?></td>
-  <td><?php echo $company_name ?></td>
-  <td><?php echo $First_name ?></td>
-  <td><?php echo $Last_name ?></td>
-  <td><?php echo $Email ?></td>
-  <td><?php echo $Phone ?></td>
-  <td><?php echo $website ?></td>
-   <td><?php echo $facebook_page ?></td>
-    <td><?php echo $instagram ?></td>
-    <td><?php echo $products ?></td>
-    <td><?php echo $audience ?></td>
-    <td><?php echo $budget ?></td>
-     <td><?php echo $text_area ?></td>
+  <td><?php echo $firstname ?></td>
+  <td><?php echo $lastname ?></td>
+  <td><?php echo $email ?></td>
   <td><?php echo $date ?></td>
 
   <td>
@@ -177,12 +154,12 @@ $select_user_exec =mysqli_query($conn, $select_user);
       </div>
 
       <div class="modal-body">
-        Are you sure you want to delete <?php echo $First_name; ?>?
+        Are you sure you want to delete <?php echo $firstname; ?>?
       </div>
 
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-        <a href="./index.php?id=<?php echo $row['id']; ?>" class="btn btn-danger">
+        <a href="./newsletter.php?id=<?php echo $row['id']; ?>" class="btn btn-danger">
           Yes, Delete
         </a>
       </div>

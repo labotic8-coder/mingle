@@ -152,7 +152,7 @@ body {
 
 </style>
 <?php
-require "form.php";
+require "advertise_form.php";
 ?>
 
 
