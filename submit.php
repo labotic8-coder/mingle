@@ -1,7 +1,11 @@
 <?php
+header('Content-Type: application/json');
 require "conn.php";
 
-if (isset($_POST['submit'])) {
+if (isset($_POST['register'])) {
+   $error = mysqli_error($conn);
+
+
 $company_name = $_POST['company_name'];
 $first_name = $_POST['First_name'];
 $last_name = $_POST['Last_name'];
@@ -66,20 +70,39 @@ if (isset($_POST['SUBMIT'])) {
 
  
 if (isset($_POST['save'])) {
+
+
    $firstname= $_POST['firstname'];
    $lastname= $_POST['lastname'];
    $email = $_POST['email'];
    $textarea = $_POST['textarea'];
    $human_check = $_POST ['human_check'];
+
+   // Validate email
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    echo json_encode([
+        "status" => "error",
+        "message" => "Invalid email format."
+    ]);
+    exit;
+}
   
    
 $insert_contact = "INSERT INTO contact (firstname,lastname,email,textarea,human_check)VALUES('$firstname','$lastname','$email','$textarea','$human_check')";
-   $insert_contact_exec = mysqli_query($conn, $insert_contact) or die("cant save".mysqli_error($conn));
+   $insert_contact_exec = mysqli_query($conn, $insert_contact);
+   // or die("cant save".mysqli_error($conn));
    if ($insert_contact_exec) {
-        echo "<script>window.location.href='index.php';</script>";
+        echo json_encode([
+        "status" => "success",
+        "message" => "Message sent successfully."
+    ]);
+
 
    }else {
-      echo "😥😣😣😏 submittion fails";
+       echo json_encode([
+        "status" => "error",
+        "message" => "Database error: "
+    ]);
    }
 
 

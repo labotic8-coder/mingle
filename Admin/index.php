@@ -2,7 +2,7 @@
 session_start();
 if(!isset($_SESSION['email'] )){
 
-echo "<script>window.location.href='./index.php';</script>";
+echo "<script>window.location.href='./login.php';</script>";
 
 
 }
@@ -43,9 +43,47 @@ if(isset($_GET['id'])){
         font-size: 25px;
         font-family: Georgia, 'Times New Roman', Times, serif;
       }
+      .table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table-responsive {
+    width: 100%;
+}
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px; /* smaller text */
+}
+
+.custom-table th,
+.custom-table td {
+    padding: 6px 8px; /* reduce spacing */
+    text-align: left;
+    white-space: nowrap; /* prevents breaking */
+}
+
+.custom-table th {
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+}
+
+.custom-table tr:nth-child(even) {
+    background: #f5f5f5;
+}
+
+.custom-table td {
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
     </style>
 </head>
-<body>
+<body style="width:100%">
   <nav class="navbar navbar-dark bg-dark">
   <div class="container-fluid">
     <button class="btn btn-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#dashboardMenu" aria-controls="dashboardMenu">
@@ -64,37 +102,43 @@ if(isset($_GET['id'])){
      aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    <ul class="list-group list-group-flush">
-      <div class="text"> 
-        <a href="index.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">company_details</b>
-        </a>
-        </div>
+   <ul class="list-group sidebar-menu">
 
-         <div class="text"> 
-        <a href="./contact.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">Contacts</b>
+    <li class="list-group-item">
+        <a href="index.php" class="nav-link">
+            <i class="bi bi-building"></i>
+            <span>Company Details</span>
         </a>
-        </div>
+    </li>
 
-       <div class="text"> 
-        <a href="newsletter.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">Newsletter</b>
+    <li class="list-group-item">
+        <a href="contact.php" class="nav-link">
+            <i class="bi bi-envelope"></i>
+            <span>Contacts</span>
         </a>
-        </div>
-<!-- 
-      <div class=" text">
-        <a href="newsletter_subscriber.php" class="nav-link" id="text">newsletter_users </a></div> -->
-      
-      <!-- <li class="list-group-item"><a href="#">News Posts</a></li>
-      <li class="list-group-item"><a href="#">My Posts</a></li> -->
+    </li>
+
+    <li class="list-group-item">
+        <a href="newsletter.php" class="nav-link">
+            <i class="bi bi-send"></i>
+            <span>Newsletter</span>
+        </a>
+    </li>
+
+</ul>
+
+
      
 </div>
   
 </div>
 
+
+
 <div class="table-container">
-  <table>
+  
+  <div class="table-responsive">
+  <table class="custom-table table table-sm table-bordered table-striped">
     <thead>
       <tr>
         <th>S/N</th>
@@ -117,54 +161,54 @@ if(isset($_GET['id'])){
 
       <!-- $select_user = "SELECT * FROM web_users ORDER BY id DESC";
 
-$select_user_exec =mysqli_query($conn, $select_user); -->
+   $select_user_exec =mysqli_query($conn, $select_user); -->
 
-     <?php 
-     
-      $select_user = "SELECT * FROM company_details ORDER BY id DESC";
-      $sn = 0;
-$select_user_exec =mysqli_query($conn, $select_user);
-       
-     while($row = mysqli_fetch_assoc($select_user_exec)) { 
-       $sn++;
-     $company_name= $row['company_name'];
-     $First_name = $row['First_name'];
-     $Last_name = $row['Last_name'];
-     $Email = $row['Email'];
-     $Phone = $row['Phone'];
-     $website = $row['website'];
-     $facebook_page = $row['facebook_page'];
-     $instagram = $row['instagram'];
-     $products= $row['products'];
-     $audience= $row['audience'];
-     $budget= $row['budget'];
-     $text_area = $row['text_area'];
-     $date = $row['date'];
+            <?php 
+            
+              $select_user = "SELECT * FROM company_details ORDER BY id DESC";
+              $sn = 0;
+        $select_user_exec =mysqli_query($conn, $select_user);
+              
+            while($row = mysqli_fetch_assoc($select_user_exec)) { 
+              $sn++;
+            $company_name= $row['company_name'];
+            $First_name = $row['First_name'];
+            $Last_name = $row['Last_name'];
+            $Email = $row['Email'];
+            $Phone = $row['Phone'];
+            $website = $row['website'];
+            $facebook_page = $row['facebook_page'];
+            $instagram = $row['instagram'];
+            $products= $row['products'];
+            $audience= $row['audience'];
+            $budget= $row['budget'];
+            $text_area = $row['text_area'];
+            $date = $row['date'];
 
-      ?>
-    
-<tr>
-   <td><?php echo $sn ?></td>
-  <td><?php echo $company_name ?></td>
-  <td><?php echo $First_name ?></td>
-  <td><?php echo $Last_name ?></td>
-  <td><?php echo $Email ?></td>
-  <td><?php echo $Phone ?></td>
-  <td><?php echo $website ?></td>
-   <td><?php echo $facebook_page ?></td>
-    <td><?php echo $instagram ?></td>
-    <td><?php echo $products ?></td>
-    <td><?php echo $audience ?></td>
-    <td><?php echo $budget ?></td>
-     <td><?php echo $text_area ?></td>
-  <td><?php echo $date ?></td>
+              ?>
+            
+        <tr>
+          <td><?php echo $sn ?></td>
+          <td><?php echo $company_name ?></td>
+          <td><?php echo $First_name ?></td>
+          <td><?php echo $Last_name ?></td>
+          <td><?php echo $Email ?></td>
+          <td><?php echo $Phone ?></td>
+          <td><?php echo $website ?></td>
+          <td><?php echo $facebook_page ?></td>
+            <td><?php echo $instagram ?></td>
+            <td><?php echo $products ?></td>
+            <td><?php echo $audience ?></td>
+            <td><?php echo $budget ?></td>
+            <td><?php echo $text_area ?></td>
+          <td><?php echo $date ?></td>
 
-  <td>
-    <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal<?php echo $row['id']; ?>">
-      Delete
-    </button>
-  </td>
-</tr>
+          <td>
+            <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal<?php echo $row['id']; ?>">
+              Delete
+            </button>
+          </td>
+        </tr>
 
 <!-- Modal -->
 <div class="modal fade" id="deleteModal<?php echo $row['id']; ?>" tabindex="-1">
@@ -191,6 +235,12 @@ $select_user_exec =mysqli_query($conn, $select_user);
   </div>
 </div>
 <?php } ?>
+    </tbody>
+  </table>
+</div>
+</div>
+
+
 
 
 

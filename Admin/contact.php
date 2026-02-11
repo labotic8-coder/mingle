@@ -63,29 +63,31 @@ if(isset($_GET['id'])){
      aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    <ul class="list-group list-group-flush">
-      <div class="text"> 
-        <a href="index.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">company_details</b>
-        </a>
-        </div>
 
-         <div class="text"> 
-        <a href="contact.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">Contacts</b>
+ <ul class="list-group sidebar-menu">
+
+    <li class="list-group-item">
+        <a href="index.php" class="nav-link">
+            <i class="bi bi-building"></i>
+            <span>Company Details</span>
         </a>
-        </div>
-       <div class="text"> 
-        <a href="newsletter.php" class="nav-link" id="text">
-          <b class="" style="color: blue;">Newsletter</b>
+    </li>
+
+    <li class="list-group-item">
+        <a href="contact.php" class="nav-link">
+            <i class="bi bi-envelope"></i>
+            <span>Contacts</span>
         </a>
-        </div>
-<!-- 
-      <div class=" text">
-        <a href="newsletter_subscriber.php" class="nav-link" id="text">newsletter_users </a></div> -->
-      
-      <!-- <li class="list-group-item"><a href="#">News Posts</a></li>
-      <li class="list-group-item"><a href="#">My Posts</a></li> -->
+    </li>
+
+    <li class="list-group-item">
+        <a href="newsletter.php" class="nav-link">
+            <i class="bi bi-send"></i>
+            <span>Newsletter</span>
+        </a>
+    </li>
+
+</ul>
      
 </div>
   

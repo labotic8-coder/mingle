@@ -224,14 +224,16 @@ document.getElementById("promoForm").addEventListener("submit", function(e) {
     btnText.innerText = "Submitting...";
 
     const formData = new FormData(form);
+    
+    formData.append("register", "1");
 
     fetch("submit.php", {
         method: "POST",
         body: formData
     })
-    .then(response => response.text())
+    .then(response => response.json())
     .then(data => {
-
+        
         submitBtn.disabled = false;
     btnSpinner.classList.add("d-none");
     btnText.innerText = "Submit";

@@ -36,8 +36,11 @@
 
 
 <?php
-require "newsletter_form.php";
-?>
+
+							require "contactus_form.php";
+
+
+							?>
 
 
 <p>Having trouble signing up? <a href="not-able-to-sign-up.php">Click here, we can help!</a></p>
