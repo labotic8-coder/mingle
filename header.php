@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from minglecity.com/not-able-to-sign-up/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 01 Feb 2026 22:59:32 GMT -->
-<!-- Added by HTTrack -->
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
@@ -17,14 +16,14 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
     <!-- This site is optimized with the Yoast SEO plugin v26.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
-    <title>Not Able To Sign Up? - Mingle City</title>
-    <link rel="canonical" href="index.html" />
+    <title>Mingl City</title>
+    <link rel="canonical" href="index.php" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Not Able To Sign Up? - Mingle City" />
-    <meta property="og:url" content="https://minglecity.com/not-able-to-sign-up/" />
+    <meta property="og:title" content=" - Mingle City" />
+    
     <meta property="og:site_name" content="Mingle City" />
-    <meta property="article:modified_time" content="2021-09-22T01:15:49+00:00" />
+   
     <meta name="twitter:card" content="summary_large_image" />
     <script type="application/ld+json"
         class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://minglecity.com/not-able-to-sign-up/","url":"https://minglecity.com/not-able-to-sign-up/","name":"Not Able To Sign Up? - Mingle City","isPartOf":{"@id":"https://minglecity.com/#website"},"datePublished":"2021-09-22T01:15:47+00:00","dateModified":"2021-09-22T01:15:49+00:00","breadcrumb":{"@id":"https://minglecity.com/not-able-to-sign-up/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://minglecity.com/not-able-to-sign-up/"]}]},{"@type":"BreadcrumbList","@id":"https://minglecity.com/not-able-to-sign-up/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://minglecity.com/"},{"@type":"ListItem","position":2,"name":"Not Able To Sign Up?"}]},{"@type":"WebSite","@id":"https://minglecity.com/#website","url":"https://minglecity.com/","name":"Mingle City","description":"Michael Baisden Live","publisher":{"@id":"https://minglecity.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://minglecity.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://minglecity.com/#organization","name":"Mingle City","url":"https://minglecity.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://minglecity.com/#/schema/logo/image/","url":"https://minglecity.com/wp-content/uploads/2021/11/Mingle-City-NEW-Logo.png","contentUrl":"https://minglecity.com/wp-content/uploads/2021/11/Mingle-City-NEW-Logo.png","width":246,"height":66,"caption":"Mingle City"},"image":{"@id":"https://minglecity.com/#/schema/logo/image/"}}]}</script>
@@ -32,8 +31,8 @@
 
 
     <link rel='dns-prefetch' href='http://static.addtoany.com/' />
-    <link rel="alternate" type="application/rss+xml" title="Mingle City &raquo; Feed" href="feed.php" />
-    <link rel="alternate" type="application/rss+xml" title="Mingle City &raquo; Comments Feed"
+    <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="feed.php" />
+    <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed"
         href="feed.php" />
     <link rel="preload" class="mai-preload" href="wp-content/fonts/hind/5aU19_a8oxmIfMJaERySjQ.woff2" as="font"
         type="font/woff2" crossorigin />

@@ -81,32 +81,7 @@
 
 
 
-						<p>Having trouble signing up? <a href="https://minglecity.com/not-able-to-sign-up/">Click here,
-								we can help!</a></p>
-						<div class="share-after share-filled share-small" id="share-after-1548">
-							<div class="facebook" id="facebook-after-1548"
-								data-url="https://minglecity.com/join-the-michael-baisden-travel-club/"
-								data-urlalt="https://minglecity.com/?p=1548"
-								data-text="Join The MingleCity Newsletter [for the Michael Baisden Travel Club]"
-								data-title="Share" data-reader="Share on Facebook" data-count="%s shares on Facebook">
-							</div>
-							<div class="twitter" id="twitter-after-1548"
-								data-url="https://minglecity.com/join-the-michael-baisden-travel-club/"
-								data-urlalt="https://minglecity.com/?p=1548"
-								data-text="Join The MingleCity Newsletter [for the Michael Baisden Travel Club]"
-								data-title="Share" data-reader="Share this" data-count="%s Shares"></div>
-							<div class="pinterest" id="pinterest-after-1548"
-								data-url="https://minglecity.com/join-the-michael-baisden-travel-club/"
-								data-urlalt="https://minglecity.com/?p=1548"
-								data-text="Join The MingleCity Newsletter [for the Michael Baisden Travel Club]"
-								data-title="Pin" data-reader="Pin this" data-count="%s Pins"></div>
-							<div class="linkedin" id="linkedin-after-1548"
-								data-url="https://minglecity.com/join-the-michael-baisden-travel-club/"
-								data-urlalt="https://minglecity.com/?p=1548"
-								data-text="Join The MingleCity Newsletter [for the Michael Baisden Travel Club]"
-								data-title="Share" data-reader="Share on LinkedIn" data-count="%s shares on LinkedIn">
-							</div>
-						</div>
+						
 						<script type='text/javascript'>
 							jQuery(document).ready(function ($) {
 								$('#facebook-after-1548').sharrre({

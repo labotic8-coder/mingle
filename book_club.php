@@ -26,7 +26,6 @@
 
 
 <h3 class="wp-block-heading has-text-align-center"><em>~ Michael Baisden</em></h3>
-<div class="share-after share-filled share-small" id="share-after-5735"><div class="facebook" id="facebook-after-5735" data-url="https://minglecity.com/michael-baisden-book-club/" data-urlalt="https://minglecity.com/?p=5735" data-text="Michael Baisden Book Club" data-title="Share" data-reader="Share on Facebook" data-count="%s shares on Facebook"></div><div class="twitter" id="twitter-after-5735" data-url="https://minglecity.com/michael-baisden-book-club/" data-urlalt="https://minglecity.com/?p=5735" data-text="Michael Baisden Book Club" data-title="Share" data-reader="Share this" data-count="%s Shares"></div><div class="pinterest" id="pinterest-after-5735" data-url="https://minglecity.com/michael-baisden-book-club/" data-urlalt="https://minglecity.com/?p=5735" data-text="Michael Baisden Book Club" data-title="Pin" data-reader="Pin this" data-count="%s Pins"></div><div class="linkedin" id="linkedin-after-5735" data-url="https://minglecity.com/michael-baisden-book-club/" data-urlalt="https://minglecity.com/?p=5735" data-text="Michael Baisden Book Club" data-title="Share" data-reader="Share on LinkedIn" data-count="%s shares on LinkedIn"></div></div>
 			<script type='text/javascript'>
 				jQuery(document).ready(function($) {
 					$('#facebook-after-5735').sharrre({

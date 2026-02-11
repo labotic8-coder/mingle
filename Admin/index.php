@@ -142,19 +142,15 @@ if(isset($_GET['id'])){
     <thead>
       <tr>
         <th>S/N</th>
-        <th>Company_name</th>
+        <!-- <th>Company_name</th> -->
         <th>First_name</th>
         <th>Last_name</th>
+        <th>Email</th>
         <th>phone</th>
-         <th>website</th>
-         <th>facebook_page</th>
-         <th>instagram</th>
-         <th>products</th>
-         <th>audience</th>
-         <th>budget</th>
-         <th>text_area</th>
-        <th>Date Created</th>
-        <th>Action</th>
+         <th>Read More</th>
+         <th>Delete</th>
+         
+        
       </tr>
     </thead>
     <tbody>
@@ -189,26 +185,107 @@ if(isset($_GET['id'])){
             
         <tr>
           <td><?php echo $sn ?></td>
-          <td><?php echo $company_name ?></td>
+          
           <td><?php echo $First_name ?></td>
           <td><?php echo $Last_name ?></td>
           <td><?php echo $Email ?></td>
           <td><?php echo $Phone ?></td>
-          <td><?php echo $website ?></td>
-          <td><?php echo $facebook_page ?></td>
-            <td><?php echo $instagram ?></td>
-            <td><?php echo $products ?></td>
-            <td><?php echo $audience ?></td>
-            <td><?php echo $budget ?></td>
-            <td><?php echo $text_area ?></td>
-          <td><?php echo $date ?></td>
 
           <td>
-            <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal<?php echo $row['id']; ?>">
+              <button class="btn btn-sm btn-primary"
+        data-bs-toggle="modal"
+        data-bs-target="#detailsModal<?php echo $row['id']; ?>">
+        Read More
+    </button>
+            </td>
+          
+
+          <td>
+            <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal<?php echo $row['id']; ?>">
               Delete
             </button>
           </td>
+            
         </tr>
+
+        <!-- Details Modal -->
+<div class="modal fade" id="detailsModal<?php echo $row['id']; ?>" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content shadow-lg border-0 rounded-4">
+
+      <div class="modal-header bg-dark text-white rounded-top-4">
+        <h5 class="modal-title">
+            <?php echo $company_name; ?> - Details
+        </h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+
+      <div class="modal-body p-4">
+
+        <div class="row g-3">
+
+          <div class="col-md-6">
+            <strong>Website:</strong>
+            <p class="text-muted">
+              <a href="<?php echo $website; ?>" target="_blank">
+                <?php echo $website; ?>
+              </a>
+            </p>
+          </div>
+
+          <div class="col-md-6">
+            <strong>Facebook:</strong>
+            <p class="text-muted"><?php echo $facebook_page; ?></p>
+          </div>
+
+          <div class="col-md-6">
+            <strong>Instagram:</strong>
+            <p class="text-muted"><?php echo $instagram; ?></p>
+          </div>
+
+          <div class="col-md-6">
+            <strong>Budget:</strong>
+            <p class="text-success fw-bold"><?php echo $budget; ?></p>
+          </div>
+
+          <div class="col-md-12">
+            <strong>Products:</strong>
+            <p class="text-muted"><?php echo $products; ?></p>
+          </div>
+
+           <div class="col-md-12">
+            <strong>Company Name:</strong>
+            <p class="text-muted"><?php echo $company_name ?></p>
+          </div>
+
+          
+
+          <div class="col-md-12">
+            <strong>Target Audience:</strong>
+            <p class="text-muted"><?php echo $audience; ?></p>
+          </div>
+
+          <div class="col-md-12">
+            <strong>Description:</strong>
+            <div class="bg-light p-3 rounded">
+              <?php echo nl2br($text_area); ?>
+            </div>
+          </div>
+
+          <div class="col-md-12 text-end">
+            <small class="text-secondary">
+              Created on: <?php echo $date; ?>
+            </small>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
 
 <!-- Modal -->
 <div class="modal fade" id="deleteModal<?php echo $row['id']; ?>" tabindex="-1">
