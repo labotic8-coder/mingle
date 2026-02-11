@@ -25,7 +25,18 @@ $insert_company = "INSERT INTO company_details (company_name,First_name,Last_nam
 
 
 if ($insert_company_exec) {
-   echo "inserted";
+   echo json_encode([
+        "status" => "success",
+        "message" => "Data inserted successfully"
+    ]);
+}else{
+   $error = mysqli_error($conn);
+
+echo json_encode([
+        "status" => "error",
+        "message" => "Database error: " . $error
+    ]);
+
 }
 
 
