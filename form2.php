@@ -1,6 +1,6 @@
 
 
-<form method="POST" class="af-form-wrapper" accept-charset="UTF-8" action=""  >
+<form method="POST" class="af-form-wrapper" accept-charset="UTF-8" action="submit.php"  >
 <div style="display: none;">
 <input type="hidden" name="meta_web_form_id" value="348838532" />
 <input type="hidden" name="meta_split_id" value="" />
